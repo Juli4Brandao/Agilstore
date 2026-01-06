@@ -32,7 +32,7 @@ O sistema permite controlar o inventário de forma simples, substituindo o uso m
 
 ### Passo a passo
 
-- 1. Clone o repositório:
+- 1.Clone o repositório
 
 git clone https://github.com/Juli4Brandao/Agilstore.git
 
