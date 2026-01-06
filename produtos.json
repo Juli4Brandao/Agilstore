@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Fonde de ouvido",
+    "categoria": "celular",
+    "quantidade": 7,
+    "preco": 25
+  },
+  {
+    "id": 2,
+    "nome": "Carregador",
+    "categoria": "celular",
+    "quantidade": 4,
+    "preco": 50
+  }
+]
